@@ -1,34 +1,71 @@
 # freelance-recruiting-de [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Liste von Freelancer Rekrutierungs &amp; Vermittlungs Webseiten.
+> A curated, yet incomplete, list of freelancer recruitment & placement websites in Germany.
 
+## Top 10 by market share
 
-## Contents
+According to [luenendonk-list-2019](https://www.luenendonk.de/produkte/listen/luenendonk-liste-2019-anbieter-fuer-rekrutierung-vermittlung-und-steuerung-von-it-freelancern-in-deutschland/)
+the top 10 in Germany.
 
-- [Section](#section)
-- [Another Section](#another-section)
+1. [Hays AG, Mannheim](http://www.hays.de)
+1. [Gulp Gruppe, München](http://www.gulp.de)
+1. [Allgeier Experts SE, Wiesbaden](https://www.allgeier-experts-go.com/my/profile)
+1. [SThree GmbH, Frankfurt am Main](http://www.sthree.de)
+1. [Etengo Unternehmensgruppe, Mannheim](http://www.etengo.de)
+1. [Solcom GmbH, Reutlingen](http://www.solcom.de)
+1. [Westhouse Group GmbH, Garching bei München](http://www.westhouse-group.com)
+1. [top itservices AG, Unterhaching](http://www.top-itservices.com)
+1. [neusta consulting GmbH, Hamburg](http://www.neusta-consulting.de)
+1. [Questax AG, Heidelberg](http://www.questax.com)
 
+## More recruiters & placement companies
 
-## Section
+In alphabetical order.
 
-About this section. Optional. Keep this short and focus on the list.
+- [Academic Work Germany GmbH, München](http://www.academicwork.de)
+- [AVANTGARDE EXPERTS GMBH, München](https://www.avantgarde-experts.de/de/jobangebote/)
+- [Computer Futures, a trading division of SThree GmbH, Frankfurt](https://www.computerfutures.com/de-de/)
+- [Constaff GmbH, Heidelberg](https://www.constaff.com/projektangebote/)
+- [Contractor Consulting GmbH, München](http://www.contractor.de)
+- [Experis GmbH, Eschborn](https://de.experis.com)
+- [Future Consulting GmbH, Frankfurt am Main](http://www.future-consulting.de)
+- [Geco Deutschland GmbH, Hamburg](http://www.geco-group.com)
+- [iPAXX AG, Heidelberg](http://www.ipaxx.com)
+- [IPS Projects GmbH, Mainz](https://www.ipsways.com/jobangebote/jobangebote-fur-freelancer/)
+- [ISO Recruiting Consultants GmbH, Nürnberg](http://www.iso-gruppe.com)
+- [K2 Partnering Solutions GmbH, Frankfurt](https://k2partnering.com)
+- [Lorenz-Informatik, Nürnberg](http://www.lorenz-informatik.de)
+- [Modis Deutschland, Stuttgart](http://www.modis.com)
+- [msg systems ag, München](https://www.msg.group)
+- [Projekt Broker Consultant Services GmbH](https://www.projekt-broker.com)
+- [Simply Vision, CH](https://simplyvision.ch)
+- [Systeme24 Staffing+Solutions GmbH, Mainz](https://www.systeme24.de/projekte/)
+- [Talent IO, Paris](https://www.talent.io)
+- [VARIUS IT GmbH, Hamburg](https://www.varius-it.com/projektangebote/)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Portals
 
+Some of these act as recruiters themselves but allow others on their platform.
 
-## Another Section
+- [Freelancer.Net GmbH](https://www.freelance.de)
+- [Freelancer Technology Pty Limited](https://www.freelancer.de)
+- [freelancermap GmbH, Nürnberg](https://www.freelancermap.de)
+- [Gulp Gruppe, München](http://www.gulp.de)
+- [projektwerk ... GmbH, Nürnberg](https://www.projektwerk.com/de)
 
-### Subsection
+## Uncategorized
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+- https://www.4freelance.de
+- https://www.bestcruiter.com
+- https://www.malt.de
+- https://remoteok.io
+- [https://www.twago.de](https://www.twago.de)
+- https://www.venturi-group.com
+- https://www.xing.com/communities/groups/freiberufler-projektmarkt-strich-freelance-projects-exchange-2688-1000231
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
