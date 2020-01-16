@@ -37,6 +37,7 @@ In alphabetical order.
 - [Lorenz-Informatik, Nürnberg](http://www.lorenz-informatik.de)
 - [Modis Deutschland, Stuttgart](http://www.modis.com)
 - [msg systems ag, München](https://www.msg.group)
+- [ProTIP ProjektService AG, Bergisch Gladbach](https://www.protip.de/projekt-ticker)
 - [Projekt Broker Consultant Services GmbH](https://www.projekt-broker.com)
 - [Simply Vision, CH](https://simplyvision.ch)
 - [Systeme24 Staffing+Solutions GmbH, Mainz](https://www.systeme24.de/projekte/)
