@@ -42,6 +42,7 @@ In alphabetical order.
 - [Systeme24 Staffing+Solutions GmbH, Mainz](https://www.systeme24.de/projekte/)
 - [Talent IO, Paris](https://www.talent.io)
 - [VARIUS IT GmbH, Hamburg](https://www.varius-it.com/projektangebote/)
+- [VOQUZ ... GmbH, München](https://www.voquz.com/voquz-erweiterung/projekte/)
 
 ## Portals
 
