@@ -27,6 +27,7 @@ In alphabetical order.
 - [Computer Futures, a trading division of SThree GmbH, Frankfurt](https://www.computerfutures.com/de-de/)
 - [Constaff GmbH, Heidelberg](https://www.constaff.com/projektangebote/)
 - [Contractor Consulting GmbH, München](http://www.contractor.de)
+- [Darwin Recruitment](https://www.darwinrecruitment.com)
 - [Experis GmbH, Eschborn](https://de.experis.com)
 - [Future Consulting GmbH, Frankfurt am Main](http://www.future-consulting.de)
 - [Geco Deutschland GmbH, Hamburg](http://www.geco-group.com)
