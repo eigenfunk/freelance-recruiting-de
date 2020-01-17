@@ -38,6 +38,7 @@ In alphabetical order.
 - [Lorenz-Informatik, Nürnberg](http://www.lorenz-informatik.de)
 - [Modis Deutschland, Stuttgart](http://www.modis.com)
 - [msg systems ag, München](https://www.msg.group)
+- [Optimus Search GmbH, Berlin](https://www.optimussearch.com/de/)
 - [Projekt Broker Consultant Services GmbH](https://www.projekt-broker.com)
 - [ProTIP ProjektService AG, Bergisch Gladbach](https://www.protip.de/projekt-ticker)
 - [Simply Vision, CH](https://simplyvision.ch)
