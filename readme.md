@@ -36,6 +36,7 @@ In alphabetical order.
 - [IPS Projects GmbH, Mainz](https://www.ipsways.com/jobangebote/jobangebote-fur-freelancer/)
 - [ISO Recruiting Consultants GmbH, Nürnberg](http://www.iso-gruppe.com)
 - [K2 Partnering Solutions GmbH, Frankfurt](https://k2partnering.com)
+- [KRONGAARD AG, Hamburg](https://www.krongaard.de/)
 - [Lorenz-Informatik, Nürnberg](http://www.lorenz-informatik.de)
 - [Modis Deutschland, Stuttgart](http://www.modis.com)
 - [msg systems ag, München](https://www.msg.group)
