@@ -38,6 +38,7 @@ In alphabetical order.
 - [K2 Partnering Solutions GmbH, Frankfurt](https://k2partnering.com)
 - [KRONGAARD AG, Hamburg](https://www.krongaard.de/)
 - [Lorenz-Informatik, Nürnberg](http://www.lorenz-informatik.de)
+- [MegaPart GmbH, Karlsruhe](https://www.megapart.de/jobs-und-projekte/)
 - [Modis Deutschland, Stuttgart](http://www.modis.com)
 - [msg systems ag, München](https://www.msg.group)
 - [Optimus Search GmbH, Berlin](https://www.optimussearch.com/de/)
