@@ -49,6 +49,7 @@ In alphabetical order.
 - [Talent IO, Paris](https://www.talent.io)
 - [VARIUS IT GmbH, Hamburg](https://www.varius-it.com/projektangebote/)
 - [VOQUZ ... GmbH, München](https://www.voquz.com/voquz-erweiterung/projekte/)
+- [Windhoff ... GmbH, 48712 Gescher](https://windhoff-group.de/projektportal/)
 
 ## Portals
 
