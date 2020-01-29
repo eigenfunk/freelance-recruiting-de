@@ -32,6 +32,7 @@ In alphabetical order.
 - [FERCHAU GmbH, Gummersbach](https://freelance.ferchau.de/)
 - [Future Consulting GmbH, Frankfurt am Main](http://www.future-consulting.de)
 - [Geco Deutschland GmbH, Hamburg](http://www.geco-group.com)
+- [Harvey Nash GmbH, Düsseldorf](https://www.harveynash.de/jobs-karriere)
 - [iPAXX AG, Heidelberg](http://www.ipaxx.com)
 - [IPS Projects GmbH, Mainz](https://www.ipsways.com/jobangebote/jobangebote-fur-freelancer/)
 - [ISO Recruiting Consultants GmbH, Nürnberg](http://www.iso-gruppe.com)
