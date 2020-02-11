@@ -24,7 +24,8 @@ In alphabetical order.
 
 - [Academic Work Germany GmbH, München](http://www.academicwork.de)
 - [AVANTGARDE EXPERTS GMBH, München](https://www.avantgarde-experts.de/de/jobangebote/)
-- [Computer Futures, a trading division of SThree GmbH, Frankfurt](https://www.computerfutures.com/de-de/)
+- [Computer Futures, ... SThree GmbH, Frankfurt](https://www.computerfutures.com/de-de/)
+- [Consist Software Solutions GmbH, Kiel](https://www.consist.de/de/subauftragnehmer/)
 - [Constaff GmbH, Heidelberg](https://www.constaff.com/projektangebote/)
 - [Contractor Consulting GmbH, München](http://www.contractor.de)
 - [Darwin Recruitment](https://www.darwinrecruitment.com)
