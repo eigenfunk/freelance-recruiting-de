@@ -4,19 +4,25 @@
 
 ## Top 10 by market share
 
-According to [luenendonk-list-2019](https://www.luenendonk.de/produkte/listen/luenendonk-liste-2019-anbieter-fuer-rekrutierung-vermittlung-und-steuerung-von-it-freelancern-in-deutschland/)
+According to [Lünendonk-Studie 2022](https://www.luenendonk.de/produkte/studien-publikationen/luenendonk-studie-2022-der-markt-fuer-it-workforce-services-in-deutschland-za/)
 the top 10 in Germany.
 
 1. [Hays AG, Mannheim](http://www.hays.de)
-1. [Gulp Gruppe, München](http://www.gulp.de)
-1. [Allgeier Experts SE, Wiesbaden](https://www.allgeier-experts-go.com/my/profile)
 1. [SThree GmbH, Frankfurt am Main](http://www.sthree.de)
-1. [Etengo Unternehmensgruppe, Mannheim](http://www.etengo.de)
+    1. [Computer Futures, a trading division of SThree GmbH, Frankfurt](https://www.computerfutures.com/de-de/)
+    1. [Progressive](https://www.progressiverecruitment.com/de-de/)
+    1. [Real Staffing](https://www.realstaffing.com/de-de/)
+    1. [Huxley](https://www.huxley.com/de-de/)
+    1. [Global Enterprise Partners](https://www.globalenterprisepartners.com/de-de/)
+    1. [Madison Black](https://www.madisonblack.com/de-de/)
+1. [Gulp Gruppe, München](http://www.gulp.de)
 1. [Solcom GmbH, Reutlingen](http://www.solcom.de)
-1. [Westhouse Group GmbH, Garching bei München](http://www.westhouse-group.com)
+1. [Etengo Unternehmensgruppe, Mannheim](http://www.etengo.de)
+1. [Allgeier Experts SE, Wiesbaden](https://www.allgeier-experts-go.com/my/profile)
+1. [KRONGAARD AG, Hamburg](https://www.krongaard.de/)
+1. [Questax AG, Heidelberg](http://www.questax.com)
 1. [top itservices AG, Unterhaching](http://www.top-itservices.com)
 1. [neusta consulting GmbH, Hamburg](http://www.neusta-consulting.de)
-1. [Questax AG, Heidelberg](http://www.questax.com)
 
 ## More recruiters & placement companies
 
@@ -38,7 +44,6 @@ In alphabetical order.
 - [IPS Projects GmbH, Mainz](https://www.ipsways.com/jobangebote/jobangebote-fur-freelancer/)
 - [ISO Recruiting Consultants GmbH, Nürnberg](http://www.iso-gruppe.com)
 - [K2 Partnering Solutions GmbH, Frankfurt](https://k2partnering.com)
-- [KRONGAARD AG, Hamburg](https://www.krongaard.de/)
 - [Lorenz-Informatik, Nürnberg](http://www.lorenz-informatik.de)
 - [MegaPart GmbH, Karlsruhe](https://www.megapart.de/jobs-und-projekte/)
 - [Modis Deutschland, Stuttgart](http://www.modis.com)
@@ -52,12 +57,13 @@ In alphabetical order.
 - [VARIUS IT GmbH, Hamburg](https://www.varius-it.com/projektangebote/)
 - [VOQUZ ... GmbH, München](https://www.voquz.com/voquz-erweiterung/projekte/)
 - [Windhoff ... GmbH, 48712 Gescher](https://windhoff-group.de/projektportal/)
+- [Westhouse Group GmbH, Garching bei München](http://www.westhouse-group.com)
 
 ## Portals
 
 Some of these act as recruiters themselves but allow others on their platform.
 
-- [Freelancer.Net GmbH](https://www.freelance.de)
+- [freelance.de GmbH](https://www.freelance.de)
 - [Freelancer Technology Pty Limited](https://www.freelancer.de)
 - [freelancermap GmbH, Nürnberg](https://www.freelancermap.de)
 - [Gulp Gruppe, München](http://www.gulp.de)
