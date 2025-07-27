@@ -29,28 +29,22 @@ the top 10 in Germany.
 
 In alphabetical order.
 
-- [Academic Work Germany GmbH, München](http://www.academicwork.de)
-- [Allgeier Experts SE, Wiesbaden](https://www.allgeier-experts-go.com/my/profile)
-- [AVANTGARDE EXPERTS GMBH, München](https://www.avantgarde-experts.de/de/jobangebote/)
 - [Computer Futures, ... SThree GmbH, Frankfurt](https://www.computerfutures.com/de-de/)
 - [Consist Software Solutions GmbH, Kiel](https://www.consist.de/de/subauftragnehmer/)
 - [Constaff GmbH, Heidelberg](https://www.constaff.com/projektangebote/)
 - [Contractor Consulting GmbH, München](http://www.contractor.de)
 - [Darwin Recruitment](https://www.darwinrecruitment.com)
 - [Experis GmbH, Eschborn](https://de.experis.com)
-- [Future Consulting GmbH, Frankfurt am Main](http://www.future-consulting.de)
 - [Geco Deutschland GmbH, Hamburg](http://www.geco-group.com)
-- [Harvey Nash GmbH, Düsseldorf](https://www.harveynash.de/jobs-karriere)
+- [Harvey Nash GmbH, Düsseldorf](https://www.harveynash.de/jobs)
 - [iPAXX AG, Heidelberg](http://www.ipaxx.com)
-- [IPS Projects GmbH, Mainz](https://www.ipsways.com/jobangebote/jobangebote-fur-freelancer/)
-- [ISO Recruiting Consultants GmbH, Nürnberg](http://www.iso-gruppe.com)
+- [IPS Projects GmbH, Mainz](https://www.ipsways.com/it-jobs-finden/)
+- [ISO Recruiting Consultants GmbH, Nürnberg](https://iso-recruiting-consultants.com)
 - [K2 Partnering Solutions GmbH, Frankfurt](https://k2partnering.com)
 - [Lorenz-Informatik, Nürnberg](http://www.lorenz-informatik.de)
 - [MegaPart GmbH, Karlsruhe](https://www.megapart.de/jobs-und-projekte/)
-- [Modis Deutschland, Stuttgart](http://www.modis.com)
 - [msg systems ag, München](https://www.msg.group)
-- [neusta consulting GmbH, Hamburg](http://www.neusta-consulting.de)
-- [Optimus Search GmbH, Berlin](https://www.optimussearch.com/de/)
+- [Optimus Search GmbH, Berlin](https://www.optimussearch.com/)
 - [Projekt Broker Consultant Services GmbH](https://www.projekt-broker.com)
 - [ProTIP ProjektService AG, Bergisch Gladbach](https://www.protip.de/projekt-ticker)
 - [Questax AG, Heidelberg](http://www.questax.com)
@@ -59,8 +53,9 @@ In alphabetical order.
 - [Talent IO, Paris](https://www.talent.io)
 - [USU Digital Consulting GmbH, München](https://www.usu-digitalconsulting.com/de-de/unternehmen/freelancer/)
 - [VARIUS IT GmbH, Hamburg](https://www.varius-it.com/projektangebote/)
-- [VOQUZ ... GmbH, München](https://www.voquz.com/voquz-erweiterung/projekte/)
+- [VOQUZ ... GmbH, München](https://talentiqo.voquz.com/search/portal-projects)
 - [Windhoff ... GmbH, 48712 Gescher](https://windhoff-group.de/projektportal/)
+- [YER TALENTS GMBH, München](https://www.yer.de/de/jobangebote/)
 
 ## Portals
 
