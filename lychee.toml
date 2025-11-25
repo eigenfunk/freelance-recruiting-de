@@ -19,5 +19,6 @@ include_mail = false
 # ============================
 
 exclude = [
+    "https://www.malt.de"
 ]
 

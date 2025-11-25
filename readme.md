@@ -85,7 +85,7 @@ Some of these act as recruiters themselves but allow others on their platform.
 ### International portals used from Germany
 
 - [Freelancer Technology Pty Limited](https://www.freelancer.de) — 🛒 Portal
-- [Malt](https://malt.com/de) — 🛒 Portal
+- [Malt](https://www.malt.de) — 🛒 Portal
 
 ## Uncategorized
 
