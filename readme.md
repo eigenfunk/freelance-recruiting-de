@@ -42,6 +42,11 @@ In alphabetical order.
 - [ISO Recruiting Consultants GmbH, Nürnberg](https://iso-recruiting-consultants.com)
 - [K2 Partnering Solutions GmbH, Frankfurt](https://k2partnering.com)
 - [Lorenz-Informatik, Nürnberg](http://www.lorenz-informatik.de)
+- [Ratbacher GmbH, Stuttgart](https://www.ratbacher.de/it-projekte/)
+- [Brunel GmbH, Bremen](https://www.brunel.net/de-de/freelancer)
+- [emagine GmbH, Frankfurt](https://www.emagine.org/de)
+- [Cegeka Deutschland](https://www.cegeka.com/de/de)
+- [Soorce GmbH, Mannheim](https://www.soorce.de/freelancer-projekte/)
 - [MegaPart GmbH, Karlsruhe](https://www.megapart.de/jobs-und-projekte/)
 - [msg systems ag, München](https://www.msg.group)
 - [Optimus Search GmbH, Berlin](https://www.optimussearch.com/)
@@ -66,12 +71,20 @@ Some of these act as recruiters themselves but allow others on their platform.
 - [freelancermap GmbH, Nürnberg](https://www.freelancermap.de)
 - [Gulp Gruppe, München (now Randstad)](http://www.gulp.de)
 - [projektwerk ... GmbH, Nürnberg](https://www.projektwerk.com/de)
+- [Junico GmbH](https://junico.de)
+- [Uplink GmbH](https://uplink.tech)
+- [Smartjobr](https://www.smartjobr.com)
+- [dasauge](https://dasauge.de)
+- [IT-Projekte.de](https://www.it-projekte.de)
+- [interlance.de](https://www.interlance.de)
+- [people4project.com](https://www.people4project.com)
+- [it-ausschreibung.de](https://www.it-ausschreibung.de)
+- [Malt](https://www.malt.de)
 
 ## Uncategorized
 
 - <https://www.4freelance.de>
 - <https://www.bestcruiter.com>
-- <https://www.malt.de>
 - <https://remoteok.io>
 - [https://www.twago.de](https://www.twago.de)
 - <https://www.venturi-group.com>
