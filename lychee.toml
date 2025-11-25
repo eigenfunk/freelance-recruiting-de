@@ -1,0 +1,12 @@
+# Ignore domains with known SSL or bot-blocking issues
+exclude = [
+]
+
+# Allow redirects (viele Seiten leiten auf Marketing-Domains um)
+accept = ["200", "301", "302", "307", "308"]
+
+# Treat TLS errors as warnings (optional)
+insecure = true
+
+# Don't fail on rate limiting
+max_redirects = 10
