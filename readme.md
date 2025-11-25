@@ -6,62 +6,62 @@
 
 ## Top 10 by market share
 
-According to [Lünendonk-Studie 2024](https://www.luenendonk.de/produkt/luenendonk-liste-2024-fuehrende-anbieter-fuer-rekrutierung-einsatz-und-steuerung-von-freelancern-in-deutschland/)
+According to [Lünendonk-Studie 2024](https://www.luenendonk.de/produkt/luenendonk-liste-2024-fuehrende-anbieter-fuer-rekrutierung-einsatz-und-steuerung-von-freelancern-in-deutschland)
 the top 10 in Germany.
 
 1. [Hays AG, Mannheim](http://www.hays.de)
 1. [Randstad Deutschland GmbH, Frankfurt am Main (ex. Gulp)](https://www.randstad.de)
     1. [Gulp Gruppe, München](http://www.gulp.de)
 1. [SThree GmbH, Frankfurt am Main](http://www.sthree.de)
-    1. [Computer Futures, a trading division of SThree GmbH, Frankfurt](https://www.computerfutures.com/de-de/)
-    1. [Progressive](https://www.progressiverecruitment.com/de-de/)
-    1. [Real Staffing](https://www.realstaffing.com/de-de/)
-    1. [Huxley](https://www.huxley.com/de-de/)
-    1. [Global Enterprise Partners](https://www.globalenterprisepartners.com/de-de/)
-    1. [Madison Black](https://www.madisonblack.com/de-de/)
+    1. [Computer Futures, a trading division of SThree GmbH, Frankfurt](https://www.computerfutures.com/de-de)
+    1. [Progressive](https://www.progressiverecruitment.com/de-de)
+    1. [Real Staffing](https://www.realstaffing.com/de-de)
+    1. [Huxley](https://www.huxley.com/de-de)
+    1. [Global Enterprise Partners](https://www.globalenterprisepartners.com/de-de)
+    1. [Madison Black](https://www.madisonblack.com/de-de)
 1. [Solcom GmbH, Reutlingen](http://www.solcom.de)
-1. [FERCHAU GmbH, Gummersbach](https://freelance.ferchau.de/)
+1. [FERCHAU GmbH, Gummersbach](https://freelance.ferchau.de)
 1. [Etengo Unternehmensgruppe, Mannheim](http://www.etengo.de)
 1. [Westhouse Group GmbH, Garching bei München](http://www.westhouse-group.com)
 1. [Akkodis Germany GmbH, Sindelfingen](https://www.akkodis.com/en/branches/germany/sindelfingen/akkodis-sindelfingen)
-1. [KRONGAARD AG, Hamburg](https://www.krongaard.de/)
+1. [KRONGAARD AG, Hamburg](https://www.krongaard.de)
 1. [top itservices AG, Unterhaching](http://www.top-itservices.com)
 
 ## More recruiters & placement companies
 
 In alphabetical order.
 
-- [Computer Futures, ... SThree GmbH, Frankfurt](https://www.computerfutures.com/de-de/) — 🧭 Recruiter
-- [Consist Software Solutions GmbH, Kiel](https://www.consist.de/de/subauftragnehmer/) — 🧭 Recruiter
-- [Constaff GmbH, Heidelberg](https://www.constaff.com/projektangebote/) — 🧭 Recruiter
+- [Computer Futures, ... SThree GmbH, Frankfurt](https://www.computerfutures.com/de-de) — 🧭 Recruiter
+- [Consist Software Solutions GmbH, Kiel](https://www.consist.de/de/subauftragnehmer) — 🧭 Recruiter
+- [Constaff GmbH, Heidelberg](https://www.constaff.com/projektangebote) — 🧭 Recruiter
 - [Contractor Consulting GmbH, München](http://www.contractor.de) — 🧭 Recruiter
 - [Darwin Recruitment](https://www.darwinrecruitment.com) — 🧭 Recruiter
 - [Experis GmbH, Eschborn](https://de.experis.com) — 🧭 Recruiter
 - [Geco Deutschland GmbH, Hamburg](http://www.geco-group.com) — 🧭 Recruiter
 - [Harvey Nash GmbH, Düsseldorf](https://www.harveynash.de/jobs) — 🧭 Recruiter
 - [iPAXX AG, Heidelberg](http://www.ipaxx.com) — 🧭 Recruiter
-- [IPS Projects GmbH, Mainz](https://www.ipsways.com/it-jobs-finden/) — 🧭 Recruiter
+- [IPS Projects GmbH, Mainz](https://www.ipsways.com/it-jobs-finden) — 🧭 Recruiter
 - [ISO Recruiting Consultants GmbH, Nürnberg](https://iso-recruiting-consultants.com) — 🧭 Recruiter
 - [K2 Partnering Solutions GmbH, Frankfurt](https://k2partnering.com) — 🧭 Recruiter
 - [Lorenz-Informatik, Nürnberg](http://www.lorenz-informatik.de) — 🧭 Recruiter
-- [Ratbacher GmbH, Stuttgart](https://www.ratbacher.de/) — 🧭 Recruiter
+- [Ratbacher GmbH, Stuttgart](https://www.ratbacher.de) — 🧭 Recruiter
 - [Brunel GmbH, Bremen](https://www.brunel.net/de-de/freelancer) — 🧭 Recruiter
 - [emagine GmbH, Frankfurt](https://www.emagine.org/de) — 🧭 Recruiter
-- [Cegeka Deutschland](https://jobs.cegeka.de/) — 🧭 Recruiter
-- [Soorce GmbH, Mannheim](https://www.soorce.de/projekte/freiberuflich/) — 🧭 Recruiter
-- [MegaPart GmbH, Karlsruhe](https://www.megapart.de/jobs-und-projekte/) — 🧭 Recruiter
+- [Cegeka Deutschland](https://jobs.cegeka.de) — 🧭 Recruiter
+- [Soorce GmbH, Mannheim](https://www.soorce.de/projekte/freiberuflich) — 🧭 Recruiter
+- [MegaPart GmbH, Karlsruhe](https://www.megapart.de/jobs-und-projekte) — 🧭 Recruiter
 - [msg systems ag, München](https://www.msg.group) — 🧭 Recruiter
-- [Optimus Search GmbH, Berlin](https://www.optimussearch.com/) — 🧭 Recruiter
+- [Optimus Search GmbH, Berlin](https://www.optimussearch.com) — 🧭 Recruiter
 - [Projekt Broker Consultant Services GmbH](https://www.projekt-broker.com) — 🧭 Recruiter
 - [ProTIP ProjektService AG, Bergisch Gladbach](https://www.protip.de/projekt-ticker) — 🧭 Recruiter
 - [Questax AG, Heidelberg](http://www.questax.com) — 🧭 Recruiter
 - [Simply Vision, CH](https://simplyvision.ch) — 🧭 Recruiter
-- [Systeme24 Staffing+Solutions GmbH, Mainz](https://www.systeme24.de/projekte/) — 🧭 Recruiter
-- [USU Digital Consulting GmbH, München](https://www.usu-digitalconsulting.com/de-de/unternehmen/freelancer/) — 🧭 Recruiter
-- [VARIUS IT GmbH, Hamburg](https://www.varius-it.com/projektangebote/) — 🧭 Recruiter
+- [Systeme24 Staffing+Solutions GmbH, Mainz](https://www.systeme24.de/projekte) — 🧭 Recruiter
+- [USU Digital Consulting GmbH, München](https://www.usu-digitalconsulting.com/de-de/unternehmen/freelancer) — 🧭 Recruiter
+- [VARIUS IT GmbH, Hamburg](https://www.varius-it.com/projektangebote) — 🧭 Recruiter
 - [VOQUZ ... GmbH, München](https://talentiqo.voquz.com/search/portal-projects) — 🧭 Recruiter
-- [Windhoff ... GmbH, 48712 Gescher](https://windhoff-group.de/projektportal/) — 🧭 Recruiter
-- [YER TALENTS GMBH, München](https://www.yer.de/de/jobangebote/) — 🧭 Recruiter
+- [Windhoff ... GmbH, 48712 Gescher](https://windhoff-group.de/projektportal) — 🧭 Recruiter
+- [YER TALENTS GMBH, München](https://www.yer.de/de/jobangebote) — 🧭 Recruiter
 
 ## Portals
 
