@@ -23,7 +23,7 @@ jobs:
           args: >
             --verbose
             --no-progress
-            --convig lychee.toml
+            --config lychee.toml
             **/*.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
