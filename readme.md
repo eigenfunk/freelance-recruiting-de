@@ -48,7 +48,7 @@ In alphabetical order.
 - [Brunel GmbH, Bremen](https://www.brunel.net/de-de/freelancer) — 🧭 Recruiter
 - [emagine GmbH, Frankfurt](https://www.emagine.org/de) — 🧭 Recruiter
 - [Cegeka Deutschland](https://jobs.cegeka.de/) — 🧭 Recruiter
-- [Soorce GmbH, Mannheim](https://www.soorce.de/freelancer-projekte/) — 🧭 Recruiter
+- [Soorce GmbH, Mannheim](https://www.soorce.de/projekte/freiberuflich/) — 🧭 Recruiter
 - [MegaPart GmbH, Karlsruhe](https://www.megapart.de/jobs-und-projekte/) — 🧭 Recruiter
 - [msg systems ag, München](https://www.msg.group) — 🧭 Recruiter
 - [Optimus Search GmbH, Berlin](https://www.optimussearch.com/) — 🧭 Recruiter
