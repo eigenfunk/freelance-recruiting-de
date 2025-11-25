@@ -1,5 +1,7 @@
 # freelance-recruiting-de [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![Link Check](https://github.com/eigenfunk/freelance-recruiting-de/actions/workflows/broken-link-check.yml/badge.svg)](https://github.com/eigenfunk/freelance-recruiting-de/actions/workflows/broken-link-check.yml)
+
 > A curated, yet incomplete, list of freelancer recruitment & placement websites in Germany.
 
 ## Top 10 by market share
@@ -66,28 +68,38 @@ In alphabetical order.
 
 Some of these act as recruiters themselves but allow others on their platform.
 
-- [freelance.de GmbH](https://www.freelance.de) — 🛒 Portal — Platform for freelancers to find and manage project opportunities.
-- [Freelancer Technology Pty Limited](https://www.freelancer.de) — 🛒 Portal — Platform for freelancers to find and manage project opportunities.
-- [freelancermap GmbH, Nürnberg](https://www.freelancermap.de) — 🛒 Portal — Platform for freelancers to find and manage project opportunities.
-- [Gulp Gruppe, München (now Randstad)](http://www.gulp.de) — 🛒 Portal — Platform for freelancers to find and manage project opportunities.
-- [projektwerk ... GmbH, Nürnberg](https://www.projektwerk.com/de) — 🛒 Portal — Platform for freelancers to find and manage project opportunities.
-- [Junico GmbH](https://junico.de) — 🛒 Portal — Platform for freelancers to find and manage project opportunities.
-- [Uplink GmbH](https://uplink.tech) — 🛒 Portal — Platform for freelancers to find and manage project opportunities.
-- [Smartjobr](https://www.smartjobr.com) — 🛒 Portal — Platform for freelancers to find and manage project opportunities.
-- [dasauge](https://dasauge.de) — 🛒 Portal — Platform for freelancers to find and manage project opportunities.
-- [IT-Projekte.de](https://www.it-projekte.de) — 🛒 Portal — Platform for freelancers to find and manage project opportunities.
-- [interlance.de](https://www.interlance.de) — 🛒 Portal — Platform for freelancers to find and manage project opportunities.
-- [people4project.com](https://www.people4project.com) — 🛒 Portal — Platform for freelancers to find and manage project opportunities.
-- [it-ausschreibung.de](https://www.it-ausschreibung.de) — 🛒 Portal — Platform for freelancers to find and manage project opportunities.
-- [Malt](https://www.malt.de) — 🛒 Portal — Platform for freelancers to find and manage project opportunities.
+### DACH-focused portals
+
+- [freelance.de GmbH](https://www.freelance.de) — 🛒 Portal
+- [freelancermap GmbH, Nürnberg](https://www.freelancermap.de) — 🛒 Portal
+- [Gulp Gruppe, München (now Randstad)](http://www.gulp.de) — 🛒 Portal
+- [projektwerk ... GmbH, Nürnberg](https://www.projektwerk.com/de) — 🛒 Portal
+- [Junico GmbH](https://junico.de) — 🛒 Portal
+- [Uplink GmbH](https://uplink.tech) — 🛒 Portal
+- [Smartjobr](https://www.smartjobr.com) — 🛒 Portal
+- [dasauge](https://dasauge.de) — 🛒 Portal
+- [IT-Projekte.de](https://www.it-projekte.de) — 🛒 Portal
+- [interlance.de](https://www.interlance.de) — 🛒 Portal
+- [people4project.com](https://www.people4project.com) — 🛒 Portal
+- [it-ausschreibung.de](https://www.it-ausschreibung.de) — 🛒 Portal
+
+### International portals used from Germany
+
+- [Freelancer Technology Pty Limited](https://www.freelancer.de) — 🛒 Portal
+- [Malt](https://www.malt.de) — 🛒 Portal
 
 ## Uncategorized
 
-- <https://www.4freelance.de> — ❓ Misc — Additional platform relevant to freelance or remote work.
-- <https://www.bestcruiter.com> — ❓ Misc — Additional platform relevant to freelance or remote work.
-- <https://remoteok.io> — ❓ Misc — Additional platform relevant to freelance or remote work.
-- [https://www.twago.de](https://www.twago.de) — ❓ Misc — Additional platform relevant to freelance or remote work.
-- <https://www.venturi-group.com> — ❓ Misc — Additional platform relevant to freelance or remote work.
+### Additional DACH portals
+
+- <https://www.4freelance.de> — ❓ Misc
+- [https://www.twago.de](https://www.twago.de) — ❓ Misc
+
+### Remote / international job boards & misc
+
+- <https://www.bestcruiter.com> — ❓ Misc
+- <https://remoteok.io> — ❓ Misc
+- <https://www.venturi-group.com> — ❓ Misc
 
 ## Contribute
 
