@@ -1,0 +1,29 @@
+name: Broken Link Check
+
+on:
+  push:
+    branches:
+      - master
+      - main
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run lychee (link checker)
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # Prüft alle Markdown-Dateien
+          args: >
+            --verbose
+            --no-progress
+            --exclude-mail
+            **/*.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
