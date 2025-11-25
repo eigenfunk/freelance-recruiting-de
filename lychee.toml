@@ -1,12 +1,31 @@
-# Ignore domains with known SSL or bot-blocking issues
+# ============================
+#  Global configuration
+# ============================
+
+# Treat TLS issues as warnings (not fatal)
+insecure = true
+
+# Accept typical redirect codes
+accept = ["200", "301", "302", "307", "308"]
+
+# Maximum redirect chain
+max_redirects = 10
+
+# Do not include email validation
+include_mail = false
+
+# ============================
+#  Exclusions (domains mit SSL/Bot-Problemen)
+# ============================
+
 exclude = [
 ]
 
-# Allow redirects (viele Seiten leiten auf Marketing-Domains um)
-accept = ["200", "301", "302", "307", "308"]
+# ============================
+#  Domain-specific rule:
+#  Malt akzeptiert Bots nicht → 403 whitelisten
+# ============================
 
-# Treat TLS errors as warnings (optional)
-insecure = true
-
-# Don't fail on rate limiting
-max_redirects = 10
+[[skip]]
+url = "https://www.malt.de/"
+status = [403]
