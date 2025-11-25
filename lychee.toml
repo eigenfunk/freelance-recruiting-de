@@ -21,11 +21,3 @@ include_mail = false
 exclude = [
 ]
 
-# ============================
-#  Domain-specific rule:
-#  Malt akzeptiert Bots nicht → 403 whitelisten
-# ============================
-
-[[skip]]
-url = "https://www.malt.de/"
-status = [403]
