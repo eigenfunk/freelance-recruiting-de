@@ -44,7 +44,7 @@ In alphabetical order.
 - [ISO Recruiting Consultants GmbH, Nürnberg](https://iso-recruiting-consultants.com) — 🧭 Recruiter
 - [K2 Partnering Solutions GmbH, Frankfurt](https://k2partnering.com) — 🧭 Recruiter
 - [Lorenz-Informatik, Nürnberg](http://www.lorenz-informatik.de) — 🧭 Recruiter
-- [Ratbacher GmbH, Stuttgart](https://www.ratbacher.de/it-projekte/) — 🧭 Recruiter
+- [Ratbacher GmbH, Stuttgart](https://www.ratbacher.de/) — 🧭 Recruiter
 - [Brunel GmbH, Bremen](https://www.brunel.net/de-de/freelancer) — 🧭 Recruiter
 - [emagine GmbH, Frankfurt](https://www.emagine.org/de) — 🧭 Recruiter
 - [Cegeka Deutschland](https://jobs.cegeka.de/) — 🧭 Recruiter
