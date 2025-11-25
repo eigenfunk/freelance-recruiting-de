@@ -57,7 +57,6 @@ In alphabetical order.
 - [Questax AG, Heidelberg](http://www.questax.com) — 🧭 Recruiter
 - [Simply Vision, CH](https://simplyvision.ch) — 🧭 Recruiter
 - [Systeme24 Staffing+Solutions GmbH, Mainz](https://www.systeme24.de/projekte/) — 🧭 Recruiter
-- [Talent IO, Paris](https://www.talent.io) — 🧭 Recruiter
 - [USU Digital Consulting GmbH, München](https://www.usu-digitalconsulting.com/de-de/unternehmen/freelancer/) — 🧭 Recruiter
 - [VARIUS IT GmbH, Hamburg](https://www.varius-it.com/projektangebote/) — 🧭 Recruiter
 - [VOQUZ ... GmbH, München](https://talentiqo.voquz.com/search/portal-projects) — 🧭 Recruiter
