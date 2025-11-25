@@ -31,38 +31,38 @@ the top 10 in Germany.
 
 In alphabetical order.
 
-- [Computer Futures, ... SThree GmbH, Frankfurt](https://www.computerfutures.com/de-de/) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [Consist Software Solutions GmbH, Kiel](https://www.consist.de/de/subauftragnehmer/) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [Constaff GmbH, Heidelberg](https://www.constaff.com/projektangebote/) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [Contractor Consulting GmbH, München](http://www.contractor.de) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [Darwin Recruitment](https://www.darwinrecruitment.com) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [Experis GmbH, Eschborn](https://de.experis.com) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [Geco Deutschland GmbH, Hamburg](http://www.geco-group.com) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [Harvey Nash GmbH, Düsseldorf](https://www.harveynash.de/jobs) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [iPAXX AG, Heidelberg](http://www.ipaxx.com) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [IPS Projects GmbH, Mainz](https://www.ipsways.com/it-jobs-finden/) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [ISO Recruiting Consultants GmbH, Nürnberg](https://iso-recruiting-consultants.com) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [K2 Partnering Solutions GmbH, Frankfurt](https://k2partnering.com) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [Lorenz-Informatik, Nürnberg](http://www.lorenz-informatik.de) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [Ratbacher GmbH, Stuttgart](https://www.ratbacher.de/it-projekte/) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [Brunel GmbH, Bremen](https://www.brunel.net/de-de/freelancer) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [emagine GmbH, Frankfurt](https://www.emagine.org/de) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [Cegeka Deutschland](https://www.cegeka.com/de/de) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [Soorce GmbH, Mannheim](https://www.soorce.de/freelancer-projekte/) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [MegaPart GmbH, Karlsruhe](https://www.megapart.de/jobs-und-projekte/) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [msg systems ag, München](https://www.msg.group) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [Optimus Search GmbH, Berlin](https://www.optimussearch.com/) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [Projekt Broker Consultant Services GmbH](https://www.projekt-broker.com) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [ProTIP ProjektService AG, Bergisch Gladbach](https://www.protip.de/projekt-ticker) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [Questax AG, Heidelberg](http://www.questax.com) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [Simply Vision, CH](https://simplyvision.ch) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [Systeme24 Staffing+Solutions GmbH, Mainz](https://www.systeme24.de/projekte/) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [Talent IO, Paris](https://www.talent.io) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [USU Digital Consulting GmbH, München](https://www.usu-digitalconsulting.com/de-de/unternehmen/freelancer/) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [VARIUS IT GmbH, Hamburg](https://www.varius-it.com/projektangebote/) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [VOQUZ ... GmbH, München](https://talentiqo.voquz.com/search/portal-projects) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [Windhoff ... GmbH, 48712 Gescher](https://windhoff-group.de/projektportal/) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
-- [YER TALENTS GMBH, München](https://www.yer.de/de/jobangebote/) — 🧭 Recruiter — Provides staffing and freelance project placement services in Germany.
+- [Computer Futures, ... SThree GmbH, Frankfurt](https://www.computerfutures.com/de-de/) — 🧭 Recruiter
+- [Consist Software Solutions GmbH, Kiel](https://www.consist.de/de/subauftragnehmer/) — 🧭 Recruiter
+- [Constaff GmbH, Heidelberg](https://www.constaff.com/projektangebote/) — 🧭 Recruiter
+- [Contractor Consulting GmbH, München](http://www.contractor.de) — 🧭 Recruiter
+- [Darwin Recruitment](https://www.darwinrecruitment.com) — 🧭 Recruiter
+- [Experis GmbH, Eschborn](https://de.experis.com) — 🧭 Recruiter
+- [Geco Deutschland GmbH, Hamburg](http://www.geco-group.com) — 🧭 Recruiter
+- [Harvey Nash GmbH, Düsseldorf](https://www.harveynash.de/jobs) — 🧭 Recruiter
+- [iPAXX AG, Heidelberg](http://www.ipaxx.com) — 🧭 Recruiter
+- [IPS Projects GmbH, Mainz](https://www.ipsways.com/it-jobs-finden/) — 🧭 Recruiter
+- [ISO Recruiting Consultants GmbH, Nürnberg](https://iso-recruiting-consultants.com) — 🧭 Recruiter
+- [K2 Partnering Solutions GmbH, Frankfurt](https://k2partnering.com) — 🧭 Recruiter
+- [Lorenz-Informatik, Nürnberg](http://www.lorenz-informatik.de) — 🧭 Recruiter
+- [Ratbacher GmbH, Stuttgart](https://www.ratbacher.de/it-projekte/) — 🧭 Recruiter
+- [Brunel GmbH, Bremen](https://www.brunel.net/de-de/freelancer) — 🧭 Recruiter
+- [emagine GmbH, Frankfurt](https://www.emagine.org/de) — 🧭 Recruiter
+- [Cegeka Deutschland](https://www.cegeka.com/de/de) — 🧭 Recruiter
+- [Soorce GmbH, Mannheim](https://www.soorce.de/freelancer-projekte/) — 🧭 Recruiter
+- [MegaPart GmbH, Karlsruhe](https://www.megapart.de/jobs-und-projekte/) — 🧭 Recruiter
+- [msg systems ag, München](https://www.msg.group) — 🧭 Recruiter
+- [Optimus Search GmbH, Berlin](https://www.optimussearch.com/) — 🧭 Recruiter
+- [Projekt Broker Consultant Services GmbH](https://www.projekt-broker.com) — 🧭 Recruiter
+- [ProTIP ProjektService AG, Bergisch Gladbach](https://www.protip.de/projekt-ticker) — 🧭 Recruiter
+- [Questax AG, Heidelberg](http://www.questax.com) — 🧭 Recruiter
+- [Simply Vision, CH](https://simplyvision.ch) — 🧭 Recruiter
+- [Systeme24 Staffing+Solutions GmbH, Mainz](https://www.systeme24.de/projekte/) — 🧭 Recruiter
+- [Talent IO, Paris](https://www.talent.io) — 🧭 Recruiter
+- [USU Digital Consulting GmbH, München](https://www.usu-digitalconsulting.com/de-de/unternehmen/freelancer/) — 🧭 Recruiter
+- [VARIUS IT GmbH, Hamburg](https://www.varius-it.com/projektangebote/) — 🧭 Recruiter
+- [VOQUZ ... GmbH, München](https://talentiqo.voquz.com/search/portal-projects) — 🧭 Recruiter
+- [Windhoff ... GmbH, 48712 Gescher](https://windhoff-group.de/projektportal/) — 🧭 Recruiter
+- [YER TALENTS GMBH, München](https://www.yer.de/de/jobangebote/) — 🧭 Recruiter
 
 ## Portals
 
