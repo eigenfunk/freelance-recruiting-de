@@ -47,7 +47,7 @@ In alphabetical order.
 - [Ratbacher GmbH, Stuttgart](https://www.ratbacher.de/it-projekte/) — 🧭 Recruiter
 - [Brunel GmbH, Bremen](https://www.brunel.net/de-de/freelancer) — 🧭 Recruiter
 - [emagine GmbH, Frankfurt](https://www.emagine.org/de) — 🧭 Recruiter
-- [Cegeka Deutschland](https://www.cegeka.com/de/de) — 🧭 Recruiter
+- [Cegeka Deutschland](https://jobs.cegeka.de/) — 🧭 Recruiter
 - [Soorce GmbH, Mannheim](https://www.soorce.de/freelancer-projekte/) — 🧭 Recruiter
 - [MegaPart GmbH, Karlsruhe](https://www.megapart.de/jobs-und-projekte/) — 🧭 Recruiter
 - [msg systems ag, München](https://www.msg.group) — 🧭 Recruiter
