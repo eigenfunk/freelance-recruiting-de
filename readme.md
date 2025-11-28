@@ -23,7 +23,7 @@ the top 10 in Germany.
 1. [FERCHAU GmbH, Gummersbach](https://freelance.ferchau.de)
 1. [Etengo Unternehmensgruppe, Mannheim](http://www.etengo.de)
 1. [Westhouse Group GmbH, Garching bei München](http://www.westhouse-group.com)
-1. [Akkodis Germany GmbH, Sindelfingen](https://www.akkodis.com/en/branches/germany/sindelfingen/akkodis-sindelfingen)
+1. [Akkodis Germany GmbH, Sindelfingen](https://www.akkodis.com/de)
 1. [KRONGAARD AG, Hamburg](https://www.krongaard.de)
 1. [top itservices AG, Unterhaching](http://www.top-itservices.com)
 
@@ -31,6 +31,8 @@ the top 10 in Germany.
 
 In alphabetical order.
 
+- [actcon GmbH, Köln](https://www.actcon-gmbh.de/jobs) — 🧭 Recruiter
+- [Amoria Bond, Köln](https://www.amoriabond.com/de/jobs/) — 🧭 Recruiter
 - [Computer Futures, ... SThree GmbH, Frankfurt](https://www.computerfutures.com/de-de) — 🧭 Recruiter
 - [Consist Software Solutions GmbH, Kiel](https://www.consist.de/de/subauftragnehmer) — 🧭 Recruiter
 - [Constaff GmbH, Heidelberg](https://www.constaff.com/projektangebote) — 🧭 Recruiter
@@ -46,22 +48,24 @@ In alphabetical order.
 - [Lorenz-Informatik, Nürnberg](http://www.lorenz-informatik.de) — 🧭 Recruiter
 - [Ratbacher GmbH, Stuttgart](https://www.ratbacher.de) — 🧭 Recruiter
 - [Brunel GmbH, Bremen](https://www.brunel.net/de-de/freelancer) — 🧭 Recruiter
-- [emagine GmbH, Frankfurt](https://www.emagine.org/de) — 🧭 Recruiter
+- [emagine GmbH, Frankfurt](https://portal.emagine.org/jobs/all) — 🧭 Recruiter
 - [Cegeka Deutschland](https://jobs.cegeka.de) — 🧭 Recruiter
 - [Soorce GmbH, Mannheim](https://www.soorce.de/projekte/freiberuflich) — 🧭 Recruiter
 - [MegaPart GmbH, Karlsruhe](https://www.megapart.de/jobs-und-projekte) — 🧭 Recruiter
 - [msg systems ag, München](https://www.msg.group) — 🧭 Recruiter
 - [Optimus Search GmbH, Berlin](https://www.optimussearch.com) — 🧭 Recruiter
-- [Projekt Broker Consultant Services GmbH](https://www.projekt-broker.com) — 🧭 Recruiter
+- [Projekt Broker Consultant Services GmbH, Frankfurt am Main](https://www.projekt-broker.com/de/offene-projekte.html) — 🧭 Recruiter
 - [ProTIP ProjektService AG, Bergisch Gladbach](https://www.protip.de/projekt-ticker) — 🧭 Recruiter
 - [Questax AG, Heidelberg](http://www.questax.com) — 🧭 Recruiter
 - [Simply Vision, CH](https://simplyvision.ch) — 🧭 Recruiter
+- [SD&T AG, Idstein](https://www.sd-t.com/) — 🧭 Recruiter
+- [Synergie-Effekt GmbH, Brühl](https://www.synekt.de/karriere/aktuelle-projekte-projektangebote/) — 🧭 Recruiter
 - [Systeme24 Staffing+Solutions GmbH, Mainz](https://www.systeme24.de/projekte) — 🧭 Recruiter
 - [USU Digital Consulting GmbH, München](https://www.usu-digitalconsulting.com/de-de/unternehmen/freelancer) — 🧭 Recruiter
 - [VARIUS IT GmbH, Hamburg](https://www.varius-it.com/projektangebote) — 🧭 Recruiter
 - [VOQUZ ... GmbH, München](https://talentiqo.voquz.com/search/portal-projects) — 🧭 Recruiter
 - [Windhoff ... GmbH, 48712 Gescher](https://windhoff-group.de/projektportal) — 🧭 Recruiter
-- [YER TALENTS GMBH, München](https://www.yer.de/de/jobangebote) — 🧭 Recruiter
+- [YER Experts GmbH, München](https://www.yer.de/de/jobangebote) — 🧭 Recruiter
 
 ## Portals
 
