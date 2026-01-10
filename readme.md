@@ -12,7 +12,7 @@ the top 10 in Germany.
 1. [Hays AG, Mannheim](http://www.hays.de)
 1. [Randstad Deutschland GmbH, Frankfurt am Main (ex. Gulp)](https://www.randstad.de)
     1. [Gulp Gruppe, München](http://www.gulp.de)
-1. [SThree GmbH, Frankfurt am Main](http://www.sthree.de)
+1. [SThree GmbH, Frankfurt am Main](https://www.sthree.com)
     1. [Computer Futures, a trading division of SThree GmbH, Frankfurt](https://www.computerfutures.com/de-de)
     1. [Progressive](https://www.progressiverecruitment.com/de-de)
     1. [Real Staffing](https://www.realstaffing.com/de-de)
