@@ -76,7 +76,6 @@ Some of these act as recruiters themselves but allow others on their platform.
 - [freelance.de GmbH](https://www.freelance.de) — 🛒 Portal
 - [freelancermap GmbH, Nürnberg](https://www.freelancermap.de) — 🛒 Portal
 - [Gulp Gruppe, München (now Randstad)](http://www.gulp.de) — 🛒 Portal
-- [projektwerk ... GmbH, Nürnberg](https://www.projektwerk.com/de) — 🛒 Portal
 - [Junico GmbH](https://junico.de) — 🛒 Portal
 - [Uplink GmbH](https://uplink.tech) — 🛒 Portal
 - [Smartjobr](https://www.smartjobr.com) — 🛒 Portal
