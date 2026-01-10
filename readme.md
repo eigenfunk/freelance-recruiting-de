@@ -25,7 +25,6 @@ the top 10 in Germany.
 1. [Westhouse Group GmbH, Garching bei München](http://www.westhouse-group.com)
 1. [Akkodis Germany GmbH, Sindelfingen](https://www.akkodis.com/de)
 1. [KRONGAARD AG, Hamburg](https://www.krongaard.de)
-1. [top itservices AG, Unterhaching](http://www.top-itservices.com)
 
 ## More recruiters & placement companies
 
@@ -95,7 +94,6 @@ Some of these act as recruiters themselves but allow others on their platform.
 ### Additional DACH portals
 
 - <https://www.4freelance.de> — ❓ Misc
-- [https://www.twago.de](https://www.twago.de) — ❓ Misc
 
 ### Remote / international job boards & misc
 
