@@ -37,7 +37,7 @@ In alphabetical order.
 - [Constaff GmbH, Heidelberg](https://www.constaff.com/projektangebote) — 🧭 Recruiter
 - [Contractor Consulting GmbH, München](http://www.contractor.de) — 🧭 Recruiter
 - [Darwin Recruitment](https://www.darwinrecruitment.com) — 🧭 Recruiter
-- [Experis GmbH, Eschborn](https://de.experis.com) — 🧭 Recruiter
+- [Experis GmbH, Eschborn](https://www.experis.de) — 🧭 Recruiter
 - [Geco Deutschland GmbH, Hamburg](http://www.geco-group.com) — 🧭 Recruiter
 - [Harvey Nash GmbH, Düsseldorf](https://www.harveynash.de/jobs) — 🧭 Recruiter
 - [iPAXX AG, Heidelberg](http://www.ipaxx.com) — 🧭 Recruiter
