@@ -50,7 +50,7 @@ In alphabetical order.
 - [emagine GmbH, Frankfurt](https://portal.emagine.org/jobs/all) — 🧭 Recruiter
 - [Cegeka Deutschland](https://jobs.cegeka.de) — 🧭 Recruiter
 - [Soorce GmbH, Mannheim](https://www.soorce.de/projekte/freiberuflich) — 🧭 Recruiter
-- [MegaPart GmbH, Karlsruhe](https://www.megapart.de/jobs-und-projekte) — 🧭 Recruiter
+- [MegaPart GmbH, Karlsruhe](https://www.megapart.de/kandidaten/deine-moeglichkeiten) — 🧭 Recruiter
 - [msg systems ag, München](https://www.msg.group) — 🧭 Recruiter
 - [Optimus Search GmbH, Berlin](https://www.optimussearch.com) — 🧭 Recruiter
 - [Projekt Broker Consultant Services GmbH, Frankfurt am Main](https://www.projekt-broker.com/de/offene-projekte.html) — 🧭 Recruiter
@@ -63,7 +63,7 @@ In alphabetical order.
 - [USU Digital Consulting GmbH, München](https://www.usu-digitalconsulting.com/de-de/unternehmen/freelancer) — 🧭 Recruiter
 - [VARIUS IT GmbH, Hamburg](https://www.varius-it.com/projektangebote) — 🧭 Recruiter
 - [VOQUZ ... GmbH, München](https://talentiqo.voquz.com/search/portal-projects) — 🧭 Recruiter
-- [Windhoff ... GmbH, 48712 Gescher](https://windhoff-group.de/projektportal) — 🧭 Recruiter
+- [Windhoff ... GmbH, 48712 Gescher](https://freelancing.windhoff-group.de) — 🧭 Recruiter
 - [YER Experts GmbH, München](https://www.yer.de/de/jobangebote) — 🧭 Recruiter
 
 ## Portals
