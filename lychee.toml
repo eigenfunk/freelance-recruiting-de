@@ -23,6 +23,8 @@ include_mail = false
 
 exclude = [
     "https://www.malt.de",
-    "https://www.projekt-broker.com"
+    "https://www.projekt-broker.com",
+    "https://freelancing.windhoff-group.de",
+    "https://www.yer.de"
 ]
 
