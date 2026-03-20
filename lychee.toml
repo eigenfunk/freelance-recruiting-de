@@ -12,7 +12,7 @@ accept = ["200", "202", "301", "302", "307", "308"]
 max_redirects = 10
 
 # Timeout per request (seconds) – some smaller sites are slow
-timeout = 30
+timeout = 45
 
 # Do not include email validation
 include_mail = false
