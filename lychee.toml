@@ -17,14 +17,4 @@ timeout = 45
 # Do not include email validation
 include_mail = false
 
-# ============================
-#  Exclusions (domains mit SSL/Bot-Problemen)
-# ============================
-
-exclude = [
-    "https://www.malt.de",
-    "https://www.projekt-broker.com",
-    "https://freelancing.windhoff-group.de",
-    "https://www.yer.de"
-]
 
