@@ -20,9 +20,13 @@ include_mail = false
 # Browser-like user agent (some sites block default lychee UA)
 user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
-# Sites that block browser user agents (inverted bot detection)
+# Sites that are unreachable from GitHub Actions runner IPs
+# (verified live from residential IPs - CI-only exclusions)
 exclude = [
-    "https://k2partnering.com"
+    "https://k2partnering.com",           # blocks browser UAs
+    "https://www.malt.de",                # 403 from datacenter IPs
+    "https://www.projekt-broker.com",     # timeout from datacenter IPs
+    "https://4freelance.de"               # timeout from datacenter IPs
 ]
 
 
