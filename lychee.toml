@@ -17,4 +17,12 @@ timeout = 45
 # Do not include email validation
 include_mail = false
 
+# Browser-like user agent (some sites block default lychee UA)
+user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+# Sites that block browser user agents (inverted bot detection)
+exclude = [
+    "https://k2partnering.com"
+]
+
 

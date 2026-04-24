@@ -45,7 +45,7 @@ In alphabetical order.
 - [ISO Recruiting Consultants GmbH, Nürnberg](https://iso-recruiting-consultants.com) — 🧭 Recruiter
 - [K2 Partnering Solutions GmbH, Frankfurt](https://k2partnering.com) — 🧭 Recruiter
 - [Lorenz-Informatik, Nürnberg](https://www.lorenz-informatik.de) — 🧭 Recruiter
-- [Ratbacher GmbH, Stuttgart](https://www.ratbacher.de) — 🧭 Recruiter
+- [Ratbacher GmbH, Stuttgart](https://www.ratbacher.com/de/) — 🧭 Recruiter
 - [Brunel GmbH, Bremen](https://www.brunel.net/de-de/freelancer) — 🧭 Recruiter
 - [emagine GmbH, Frankfurt](https://portal.emagine.org/jobs/all) — 🧭 Recruiter
 - [Cegeka Deutschland](https://jobs.cegeka.de) — 🧭 Recruiter
@@ -64,7 +64,7 @@ In alphabetical order.
 - [VARIUS IT GmbH, Hamburg](https://www.varius-it.com/projektangebote) — 🧭 Recruiter
 - [VOQUZ ... GmbH, München](https://talentiqo.voquz.com/search/portal-projects) — 🧭 Recruiter
 - [Windhoff ... GmbH, 48712 Gescher](https://freelancing.windhoff-group.de) — 🧭 Recruiter
-- [YER Experts GmbH, München](https://www.yer.de/de/jobangebote) — 🧭 Recruiter
+- [YER Experts GmbH, München](https://www.yer.de/de/jobangebote/) — 🧭 Recruiter
 
 ## Portals
 
