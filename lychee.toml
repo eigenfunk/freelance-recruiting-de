@@ -26,7 +26,9 @@ exclude = [
     "https://k2partnering.com",           # blocks browser UAs
     "https://www.malt.de",                # 403 from datacenter IPs
     "https://www.projekt-broker.com",     # timeout from datacenter IPs
-    "https://4freelance.de"               # timeout from datacenter IPs
+    "https://4freelance.de",              # timeout from datacenter IPs
+    "https://www.freelance.de",           # timeout from datacenter IPs (bot protection)
+    "https://awesome.re"                  # flaky 502s from CDN
 ]
 
 
