@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "frelrec",
+  "project_id": "babe8f06-da66-45f1-98a3-2f40cb4a7f97"
+}
