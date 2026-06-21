@@ -28,7 +28,8 @@ exclude = [
     "https://www.projekt-broker.com",     # timeout from datacenter IPs
     "https://4freelance.de",              # timeout from datacenter IPs
     "https://www.freelance.de",           # timeout from datacenter IPs (bot protection)
-    "https://awesome.re"                  # flaky 502s from CDN
+    "https://awesome.re",                 # flaky 502s from CDN
+    "https://www.bestcruiter.com"         # connection reset from datacenter IPs
 ]
 
 
