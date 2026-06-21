@@ -41,7 +41,7 @@ In alphabetical order.
 - [Geco Deutschland GmbH, Hamburg](https://www.geco-group.com) — 🧭 Recruiter
 - [Harvey Nash GmbH, Düsseldorf](https://www.harveynash.de/jobs) — 🧭 Recruiter
 - [iPAXX AG, Heidelberg](https://ipaxx.com) — 🧭 Recruiter
-- [IPS Projects GmbH, Mainz](https://www.ipsways.com/it-jobs-finden/) — 🧭 Recruiter
+- [IPS Projects GmbH, Mainz](https://www.ipsways.com/it-jobs-projekte/) — 🧭 Recruiter
 - [ISO Recruiting Consultants GmbH, Nürnberg](https://iso-recruiting-consultants.com) — 🧭 Recruiter
 - [K2 Partnering Solutions GmbH, Frankfurt](https://k2partnering.com) — 🧭 Recruiter
 - [Lorenz-Informatik, Nürnberg](https://www.lorenz-informatik.de) — 🧭 Recruiter
