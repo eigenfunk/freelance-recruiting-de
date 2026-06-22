@@ -5,18 +5,19 @@
 # Treat TLS issues as warnings (not fatal)
 insecure = true
 
-# Accept typical redirect codes
-accept = ["200", "202", "301", "302", "307", "308"]
+# Accept typical redirect codes plus bot-protection codes.
+# 403/429/502/503 mean "server is alive but blocks the CI datacenter IP"
+# (Cloudflare & co.) - not a dead link. lychee has no way around bot
+# detection (see https://lychee.cli.rs/troubleshooting/network-errors/),
+# so we accept these and only fail on real 404/410/dead-domain.
+accept = ["200", "202", "301", "302", "307", "308", "403", "429", "502", "503"]
 
 # Maximum redirect chain
 max_redirects = 10
 
-# Timeout per request (seconds) – some smaller sites are slow
-timeout = 45
-
-# Retry transient failures (flaky 503s / connection resets from bot protection)
-max_retries = 3
-retry_wait_time = 5
+# Timeout per request (seconds) – generous, to absorb slow responses
+# from datacenter IPs before they count as a failure.
+timeout = 90
 
 # Do not include email validation
 include_mail = false
@@ -24,17 +25,9 @@ include_mail = false
 # Browser-like user agent (some sites block default lychee UA)
 user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
-# Sites that are unreachable from GitHub Actions runner IPs
-# (verified live from residential IPs - CI-only exclusions)
-exclude = [
-    "https://k2partnering.com",           # blocks browser UAs
-    "https://www.malt.de",                # 403 from datacenter IPs
-    "https://www.projekt-broker.com",     # timeout from datacenter IPs
-    "https://4freelance.de",              # timeout from datacenter IPs
-    "https://www.freelance.de",           # timeout from datacenter IPs (bot protection)
-    "https://awesome.re",                 # flaky 502s from CDN
-    "https://www.bestcruiter.com",        # connection reset from datacenter IPs
-    "https://www.hays.de"                 # flaky 503 (bot protection) from datacenter IPs
-]
+# No per-site exclusions: status-code bot-blocks (403/429/502/503) are
+# handled by `accept` above. If a site still fails with a timeout or
+# connection reset (no HTTP code to accept), add it back here.
+exclude = []
 
 
