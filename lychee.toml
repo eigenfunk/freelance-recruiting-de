@@ -14,6 +14,10 @@ max_redirects = 10
 # Timeout per request (seconds) – some smaller sites are slow
 timeout = 45
 
+# Retry transient failures (flaky 503s / connection resets from bot protection)
+max_retries = 3
+retry_wait_time = 5
+
 # Do not include email validation
 include_mail = false
 
@@ -29,7 +33,8 @@ exclude = [
     "https://4freelance.de",              # timeout from datacenter IPs
     "https://www.freelance.de",           # timeout from datacenter IPs (bot protection)
     "https://awesome.re",                 # flaky 502s from CDN
-    "https://www.bestcruiter.com"         # connection reset from datacenter IPs
+    "https://www.bestcruiter.com",        # connection reset from datacenter IPs
+    "https://www.hays.de"                 # flaky 503 (bot protection) from datacenter IPs
 ]
 
 
