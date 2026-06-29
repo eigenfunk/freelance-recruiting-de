@@ -25,9 +25,11 @@ include_mail = false
 # Browser-like user agent (some sites block default lychee UA)
 user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
-# No per-site exclusions: status-code bot-blocks (403/429/502/503) are
-# handled by `accept` above. If a site still fails with a timeout or
-# connection reset (no HTTP code to accept), add it back here.
-exclude = []
+# Status-code bot-blocks (403/429/502/503) are handled by `accept` above.
+# The domains below fail with timeouts/connection resets (no HTTP code to
+# accept) from the GitHub datacenter IP, yet are perfectly reachable from a
+# normal IP (verified: both return 200). Pure datacenter throttling, not dead
+# links - so they must be excluded rather than treated as broken.
+exclude = ["projekt-broker\\.com", "bestcruiter\\.com"]
 
 
