@@ -1,2 +1,4 @@
 dolt.shared-server: false
 dolt.auto-start: false
+sync:
+    remote: "git+ssh://git@github.com/eigenfunk/freelance-recruiting-de.git"
