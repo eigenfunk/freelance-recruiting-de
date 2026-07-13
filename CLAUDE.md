@@ -16,6 +16,10 @@ lychee --config lychee.toml **/*.md
 
 # Install lychee
 brew install lychee
+
+# Verify excluded domains are still alive (LOCAL ONLY - excluded domains
+# block datacenter IPs, so running this in CI would be pointless)
+./check-excludes.sh
 ```
 
 Link check runs automatically on push/PR and daily at 03:00 UTC via GitHub Actions.
