@@ -30,6 +30,6 @@ user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36
 # accept) from the GitHub datacenter IP, yet are perfectly reachable from a
 # normal IP (verified: both return 200). Pure datacenter throttling, not dead
 # links - so they must be excluded rather than treated as broken.
-exclude = ["projekt-broker\\.com", "bestcruiter\\.com"]
+exclude = ["projekt-broker\\.com", "bestcruiter\\.com", "constaff\\.com"]
 
 
