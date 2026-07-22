@@ -6,11 +6,14 @@
 insecure = true
 
 # Accept typical redirect codes plus bot-protection codes.
-# 403/429/502/503 mean "server is alive but blocks the CI datacenter IP"
+# 403/415/429/502/503 mean "server is alive but blocks the CI datacenter IP"
 # (Cloudflare & co.) - not a dead link. lychee has no way around bot
 # detection (see https://lychee.cli.rs/troubleshooting/network-errors/),
 # so we accept these and only fail on real 404/410/dead-domain.
-accept = ["200", "202", "301", "302", "307", "308", "403", "429", "502", "503"]
+# 415 on a plain GET is always a WAF artifact (it only makes sense for
+# request bodies); seen 2026-07-22 from simplyvision.ch,
+# freelancing.windhoff-group.de and protip.de (all 200 from residential IP).
+accept = ["200", "202", "301", "302", "307", "308", "403", "415", "429", "502", "503"]
 
 # Maximum redirect chain
 max_redirects = 10
